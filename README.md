@@ -20,7 +20,6 @@ URL αντικειμένου: https://content.e-me.edu.gr/wp-admin/admin-ajax.ph
 
 <iframe src="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1341546" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://content.e-me.edu.gr/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
 Δημιουργός εικόνας: Πάνος Γιαννακουδάκης, Ευαγγελία Παρισοπούλου (copyright)
 
 Συντελεστής ανάπτυξης αντικειμένου: Ευαγγελία Παρισοπούλου
